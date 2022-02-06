@@ -1,6 +1,6 @@
 {
   "name": "بـوت عـلـش",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @t0_81 ",
+  "description": "بـوت عـلـش العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @t0_81 ",
   "logo": "https://drive.google.com/file/d/1IQsMhIdzLbptXeXGRuzSsJG9_3oP1S_4/view?usp=drivesdk",
   "keywords": [
     "plugin",
@@ -66,7 +66,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "jmthon-ar",
+      "value": "t0_81",
       "required": false
     }
   },
