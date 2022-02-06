@@ -1,1 +1,1 @@
-worker: bash عـلـشْ༒︎🕷️
+worker: bash jmthon
