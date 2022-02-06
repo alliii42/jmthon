@@ -1,7 +1,7 @@
-FROM JMTHON-AR/JM-THON:alpine
+FROM عـلـشْ༒︎🕷️/al-osh:alpine
 
 #clonning repo 
-RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
+RUN git clone https://github.com/alliii42/alliii42.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
