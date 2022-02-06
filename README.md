@@ -1,17 +1,10 @@
-## اهـلا بـك
-مـن هـنا تستطيـع عمـل رابط تنصيـب خـاص بـك
-
-## رابـط السـورس للتنـصيـب
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon)
+اهلا بك 🖤🦅
+رابط تنصيب 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alliii42/jmthon)
 
 ## شكـرا لكـم 
 
 
-## المطـورين 
+## المطـور
 
-[jmthon source](https://t.me/jmthon)
-
-[MUHAMMAD](https://t.me/RR9R7)
-
-[JASEM](https://t.me/SBB_B)
+[عـلـشْ༒︎🕷️ source](https://t.me/t0.8)
